@@ -1,2 +1,3 @@
-# Police-Management-System-in-VB
-Police Management System in VB (C# &amp; Microsoft SQL Server)
+# Police-Management-System-in-VS
+Police Management System in VS (C# &amp; Microsoft SQL Server)
+
