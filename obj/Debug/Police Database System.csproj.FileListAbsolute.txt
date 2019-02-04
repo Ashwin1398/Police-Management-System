@@ -1,0 +1,25 @@
+E:\Project2018\Police Database System\Police Database System\bin\Debug\Police Database System.exe.config
+E:\Project2018\Police Database System\Police Database System\bin\Debug\Police Database System.exe
+E:\Project2018\Police Database System\Police Database System\bin\Debug\Police Database System.pdb
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police Database System.csprojAssemblyReference.cache
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police_Database_System.Form1.resources
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police_Database_System.Properties.Resources.resources
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police Database System.csproj.GenerateResource.cache
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police Database System.csproj.CoreCompileInputs.cache
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police Database System.exe
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police Database System.pdb
+E:\Project2018\Police Database System\Police Database System\bin\Debug\DatabasePC.mdf
+E:\Project2018\Police Database System\Police Database System\bin\Debug\DatabasePC_log.ldf
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police_Database_System.Ashwin13_appbody.resources
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police_Database_System.Accused_UserControl.resources
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police_Database_System.Cases_UserControl.resources
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police_Database_System.Credits_UserControl.resources
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police_Database_System.FIR_UserControl.resources
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police_Database_System.Officer_UserControl.resources
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police_Database_System.Petitioner_UserControl.resources
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police_Database_System.Victim_UserControl.resources
+E:\Project2018\Police Database System\Police Database System\bin\Debug\Interop.WMPLib.dll
+E:\Project2018\Police Database System\Police Database System\bin\Debug\AxInterop.WMPLib.dll
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Interop.WMPLib.dll
+E:\Project2018\Police Database System\Police Database System\obj\Debug\AxInterop.WMPLib.dll
+E:\Project2018\Police Database System\Police Database System\obj\Debug\Police Database System.csproj.ResolveComReference.cache
